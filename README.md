@@ -23,11 +23,3 @@ Windows Package Manager (winget) için otomatik güncelleme scriptleri koleksiyo
 | `basic-upgrade.bat` | Temel güncelleme scripti |
 | `advanced-upgrade.bat` | Gelişmiş özellikli script |
 | `admin-upgrade.bat` | Otomatik yönetici izinli script |
-
-## 🛠️ Kurulum
-
-### 1. Repository'yi Klonlayın
-
-```bash
-git clone https://github.com/securewanltd/winget-upgrade-script.git
-cd winget-upgrade-script
